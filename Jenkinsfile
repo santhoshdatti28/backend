@@ -1,5 +1,3 @@
-def appVersion = ''
-
 pipeline {
     agent { label 'AGENT-1' }
     environment { 
